@@ -8,9 +8,6 @@
 [![PayPal Donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square&logo=paypal)](https://mathewsachin.github.io/Captura/donate)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/captura/localized.svg)](https://crowdin.com/project/captura)
 
-&copy; [Copyright 2019](LICENSE.md) Mathew Sachin
-
-:link: <https://mathewsachin.github.io/Captura/>
 
 Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
 
